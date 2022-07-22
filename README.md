@@ -1,6 +1,6 @@
 # Canon printer driver
 
-[![Canon printer driver](get-started.png)](http://canon.com.ijsetup.s3-website-us-west-1.amazonaws.com/)
+[![Canon printer driver](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com/)
 
 Canon printers offer a range of printers to satisfy different needs of the users such as where one person in the office needs a printer for paper prints other for photo print, etc. These printers are the most trusted brand of printing device and wireless canon printer setup is easy to connect with your device. Visit: [Canon printer driver](https://github.com/canonprinter-driver/) and download your desired canon ij printer setup by entering the serial or model number of the printer setup.
 
